@@ -1,0 +1,19 @@
+.top-search input{
+	width:auto;
+}
+.one-third,.one-fourth{
+	margin-right:1.21%;
+}
+.one-half{
+	width:47.5%;
+}
+.one-fourth.sidebar{
+	width:21%;
+}
+ul.slidecontrols{
+	margin-right:3%;
+}
+.flexslider .one-fifth{
+	margin-right:0.4%;
+	margin-left:1.2%;
+}

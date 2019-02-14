@@ -1,0 +1,72 @@
+@media screen and (min-width: 200px) and (max-width: 500px) {
+
+ul.simple-list li i {
+    margin-right: 2px;
+    padding: 2px;
+    font-size: 13px;
+	float:left;
+}
+
+ul.simple-list li a {
+	display:block;
+	float:left;
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+	width:85%;
+	 
+}
+.three-fourth ul.simple-list li a,
+.one ul.simple-list li a{
+	width:62%;
+}
+ul.simple-list li span{
+	display:block;
+	font-size:9px;
+	float:right; 
+	
+}
+.flex-viewport {
+	height:170px;
+}
+.one-fifth{
+	float:left !important;
+	width:130px !important;
+}
+ .one-fifth a{
+	float:left;
+	display:block;
+}
+.tooltip img{
+	width:120px !important;
+	float:left;
+}
+.flexslider ol {
+	margin-bottom:30px;
+}
+}
+
+.Detail_title{
+	text-align:center;
+	font-size:16px;
+	font-weight:bold;
+	color:#2763a1;
+	margin:20px 0px 4px 0px;
+	border-bottom:#CCC 1px solid;
+	padding-bottom:5px;	
+}
+.Detail_time{
+	text-align:center;
+	font-size:12px;
+	
+}
+
+.flex-viewport {
+	height:200px;
+	overflow:hidden;
+}
+
+.clients-slider .flex-viewport {
+	height:50px;
+	overflow:hidden;
+}
